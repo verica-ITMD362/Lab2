@@ -29,3 +29,19 @@ label, input {
   font-family: 'Times New Roman', Times, serif;
   border-radius: 10px;
 }
+
+@media screen and (max-width: 500px) {
+  #form {
+    border-radius: 2px;
+    width: 85%;
+  }
+  
+  button {
+    border-radius: 2px;
+  } 
+  
+  label, input {
+    border-radius: 2px;
+  }
+
+}
