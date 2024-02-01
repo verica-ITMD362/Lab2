@@ -38,10 +38,14 @@ label, input {
   
   button {
     border-radius: 2px;
+    font-size: 1em;
   } 
   
   label, input {
     border-radius: 2px;
+    font-size: 1em;
   }
+
+
 
 }
